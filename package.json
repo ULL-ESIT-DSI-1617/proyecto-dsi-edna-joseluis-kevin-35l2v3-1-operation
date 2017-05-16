@@ -1,6 +1,6 @@
 {
   "name": "@ull-edna-joseluis-kevin-35l2/ull-operation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Módulo principal para el cálculo de operaciones matemáticas simples.",
   "main": "index.js",
   "scripts": {
