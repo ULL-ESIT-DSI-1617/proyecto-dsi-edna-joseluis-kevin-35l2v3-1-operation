@@ -15,6 +15,9 @@ Módulo principal para el cálculo de operaciones matemáticas simples.
   * [operation-suma (repository)](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma)
   * [operation-suma (npm)](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-operation-suma)
 
+##### Multiplicacion
+  * [operation-multiplicacion (repository)](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-multiplicacion)
+  * [operation-multiplicacion (npm)](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-operation-multiplicacion)
 
 ## Asignatura DSI ULL
 
