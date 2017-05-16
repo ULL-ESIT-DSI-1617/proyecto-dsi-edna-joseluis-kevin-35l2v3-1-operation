@@ -1,0 +1,33 @@
+{
+  "name": "@ull-edna-joseluis-kevin-35l2/ull-operation",
+  "version": "1.0.0",
+  "description": "Módulo principal para el cálculo de operaciones matemáticas simples.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation.git"
+  },
+  "keywords": [
+    "operation"
+  ],
+  "author": "Edna Liliana Galiano Camacho - José Luis Doblado González - Kevin Estévez Expósito",
+  "contributors": [
+    {
+      "name": "Edna Liliana Galiano Camacho"
+    },
+    {
+      "name": "José Luis Doblado González"
+    },
+    {
+      "name": "Kevin Estévez Expósito"
+    }
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation#readme"
+}
