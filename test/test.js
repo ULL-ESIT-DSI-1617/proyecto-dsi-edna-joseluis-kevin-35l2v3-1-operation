@@ -2,7 +2,7 @@
 
 var chai = require("chai");
 var assert = chai.assert;
-var Operation = require("../index.js");
+var Operation = require("../index.js").Operation;
 
 describe('operation', function() {
 	it('2+3', function() {
