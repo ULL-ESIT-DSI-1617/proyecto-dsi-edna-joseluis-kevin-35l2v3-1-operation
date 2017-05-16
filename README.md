@@ -1,6 +1,6 @@
 # operation
 
-Módulo principal
+Módulo principal para el cálculo de operaciones matemáticas simples.
 
 ## Asignatura DSI ULL
 
