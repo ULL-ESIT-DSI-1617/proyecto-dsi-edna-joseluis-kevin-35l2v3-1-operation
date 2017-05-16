@@ -6,7 +6,15 @@ Módulo principal para el cálculo de operaciones matemáticas simples
 
 # Modulos
 
-[Suma](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma)
+##### Resta
+  * [operation-resta (repository)](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-resta)
+  * [operation-resta (npm)](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-operation-resta)
+
+
+##### Suma
+  * [operation-suma (repository)](https://github.com/ULL-ESIT-DSI-1617/proyecto-dsi-edna-joseluis-kevin-35l2v3-1-operation-suma)
+  * [operation-suma (npm)](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-operation-suma)
+
 
 ## Asignatura DSI ULL
 
