@@ -1,7 +1,7 @@
 "use strict";
 
 var regexp;
-window.operations = [];
+var operations = [];
 operations.symbols;
 
 /**

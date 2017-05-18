@@ -2,9 +2,9 @@
   "name": "@ull-edna-joseluis-kevin-35l2/ull-operation",
   "version": "1.0.3",
   "description": "Módulo principal para el cálculo de operaciones matemáticas simples.",
-  "main": "index.js",
+  "main": "operation.js",
   "scripts": {
-    "doc": "documentation build index.js -f html -o docs",
+    "doc": "documentation build operation.js -f html -o docs",
     "test": "./node_modules/mocha/bin/mocha"
   },
   "repository": {
