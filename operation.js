@@ -1,7 +1,7 @@
 "use strict";
 
 var regexp;
-global.operations = [];
+window.operations = [];
 operations.symbols;
 
 /**
@@ -57,5 +57,3 @@ Operation.operate = function (valor) {
 		return "ERROR. Try something like 2+3";
 	}
 };
-
-module.exports = Operation;
