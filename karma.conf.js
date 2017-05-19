@@ -3,6 +3,15 @@
 
 module.exports = function(config) {
 	var options = {
+		
+		plugins: [
+			'karma-chrome-launcher',
+			'karma-firefox-launcher',
+			'karma-html2js-preprocessor',
+			'karma-mocha',
+			'karma-chai'
+		],
+		
 
 		// base path that will be used to resolve all patterns (eg. files, exclude)
 		basePath: '',
@@ -97,5 +106,5 @@ module.exports = function(config) {
 		];
 	}
   
-  config.set(options);
+	config.set(options);
 };
